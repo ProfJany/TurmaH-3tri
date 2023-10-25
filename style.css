@@ -18,10 +18,10 @@ body{
     font-size: 20px;
 }
 .texto2 {
-    color: red;
+    color: #483D8B;
     font-family: 'Courier New', Courier, monospace;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: red;
+    -webkit-text-stroke-color: #483D8B;
     text-align: justify;
     font-size: 30px;
 }
