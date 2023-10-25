@@ -21,7 +21,7 @@ body{
     color: red;
     font-family: 'Courier New', Courier, monospace;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #000;
+    -webkit-text-stroke-color: red;
     text-align: justify;
     font-size: 30px;
 }
