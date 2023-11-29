@@ -59,7 +59,7 @@ header {
 .lista1 {
     color: #483D8B;
     font-size: 35px;
-    text-align:start;
+    text-align:start left;
     list-style-position: inside;
     display: inline-block;
 }
@@ -67,7 +67,7 @@ header {
 .lista2 {
     color: #483D8B;
     font-size: 35px;
-    text-align:end;
+    text-align:end right;
     list-style: none;
     display: inline-block;
 }
