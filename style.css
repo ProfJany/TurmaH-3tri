@@ -56,12 +56,15 @@ header {
 .conteudo{
     background-color: rgb(178, 248, 225);
 }
+
+.listas {
+    display: inline-block;
+}
 .lista1 {
     color: #483D8B;
     font-size: 35px;
     text-align: left;
     list-style-position: inside;
-    display: inline-block;
 }
 
 .lista2 {
@@ -69,5 +72,4 @@ header {
     font-size: 35px;
     text-align: right;
     list-style: none;
-    display: inline-block;
 }
