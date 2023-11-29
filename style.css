@@ -57,6 +57,10 @@ header {
     background-color: rgb(178, 248, 225);
 }
 
+.listas {
+    padding: 200px;
+}
+
 .lista1 {
     color: #483D8B;
     font-size: 35px;
